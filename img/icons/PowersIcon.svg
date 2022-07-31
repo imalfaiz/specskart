@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="PowersIcon" transform="translate(-348 -216)">
+    <circle id="Ellipse_48" data-name="Ellipse 48" cx="21" cy="21" r="21" transform="translate(348 216)" fill="#fffaef"/>
+    <path id="Icon_awesome-prescription" data-name="Icon awesome-prescription" d="M13.113,16.179l3.4-3.4a.7.7,0,0,0,0-.985l-.985-.985a.7.7,0,0,0-.985,0l-3.4,3.4L7.489,10.554a4.168,4.168,0,0,0-.524-8.3H.7a.7.7,0,0,0-.7.7V14.09a.7.7,0,0,0,.7.7H2.089a.7.7,0,0,0,.7-.7V10.607H3.6l5.572,5.572-3.4,3.4a.7.7,0,0,0,0,.985l.985.985a.7.7,0,0,0,.985,0l3.4-3.4,3.4,3.4a.7.7,0,0,0,.985,0l.985-.985a.7.7,0,0,0,0-.985ZM2.786,5.036H6.965a1.393,1.393,0,0,1,0,2.786H2.786Z" transform="translate(360.642 224.999)" fill="#f2b324"/>
+  </g>
+</svg>
